@@ -15,6 +15,5 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326286-53356e23-70e2-4b29-bda6-ca0963cca7bf.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218477190-bb08a1b6-f7f2-4b88-a820-03e7fe2ed984.png" alt="Flask" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 </a> 
  
