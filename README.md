@@ -8,7 +8,7 @@
 
 ### 🧰 Languages and Tools
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326301-6b17a33a-bb90-4ecc-97cd-e5bad04bf043.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326294-6ddd843c-c2d0-4d0e-b3e2-e753e3dd4c3c.svg" alt="css3" width="40" height="40"/> </a> </p>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326294-6ddd843c-c2d0-4d0e-b3e2-e753e3dd4c3c.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326277-f9300fdc-0b9e-4ed9-bce8-56fe5be8d695.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <p align="left"> <a href="https://www.javascript.com/" target="_blank" rel="noopener"> <img src="https://user-images.githubusercontent.com/108476869/218326310-92330b6f-89fb-4011-99d4-00126c84b478.svg" alt="Javascript" width="40" height="40" color="white"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326304-95c67ad5-b830-4860-adc3-a3599718844a.svg" alt="React" width="40" height="40"/> </a> 
