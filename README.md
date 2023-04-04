@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
-a href="https://www.linkedin.com/in/dariel-au-703555236/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108476869/218280603-8f305cb6-a6d0-4128-8177-6b65f2637efd.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dariel-au-703555236/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108476869/218280603-8f305cb6-a6d0-4128-8177-6b65f2637efd.svg" alt="linkedin" height="30" width="40" /></a>
