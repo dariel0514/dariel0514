@@ -20,3 +20,4 @@
  
 ### MY STATS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
