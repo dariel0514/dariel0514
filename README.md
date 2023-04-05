@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a> 
  
-### MY STATS 
+### 📈 MY STATS 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/dariel0514/github-readme-stats)</br>
 
