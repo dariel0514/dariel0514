@@ -18,7 +18,7 @@
 </a> 
  
 ### MY STATS 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)
+<a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)</a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/dariel0514/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
