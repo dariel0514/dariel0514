@@ -18,8 +18,8 @@
 </a> 
  
 ### MY STATS 
-<a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)</a>
-<a [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/dariel0514/github-readme-stats)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariel0514&show_icons=true&theme=shades-of-purple)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariel0514&layout=compact&hide=css,shell,mako,procfile,dockerfile)](https://github.com/dariel0514/github-readme-stats)</br>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/dariel-au-703555236/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/108476869/218280603-8f305cb6-a6d0-4128-8177-6b65f2637efd.svg" alt="linkedin" height="30" width="40" /></a>
