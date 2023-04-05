@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/102843467/229958922-8dd28cce-b111-4a5f-8aa4-03399a4b7573.mp4
+![giphy](https://user-images.githubusercontent.com/102843467/229960848-03065079-ca33-459e-828e-d1a8f1a225fd.gif)
 
 ### Hi there 👋 I'm Dariel
 - :mortar_board: I graduated from 4Geeks Academy
