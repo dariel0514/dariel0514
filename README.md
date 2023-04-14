@@ -4,8 +4,8 @@
 - :mortar_board: I graduated from 4Geeks Academy
 - 🌱 I’m currently learning more about Phyton 
 - :busts_in_silhouette: I am ready to meet new co-workers and work as a team
-- :office: I’m looking for a job as a software developers
-- ⚡ Fun fact: I love to play football
+- :office: I’m looking for a job as a software developer
+- ⚡ Fun fact: I love to play soccer
 
 ### 🧰 Languages and Tools
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/108476869/218326301-6b17a33a-bb90-4ecc-97cd-e5bad04bf043.svg" alt="html" width="40" height="40"/> </a> 
