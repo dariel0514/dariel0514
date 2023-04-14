@@ -1,7 +1,7 @@
 ![giphy](https://user-images.githubusercontent.com/102843467/229960848-03065079-ca33-459e-828e-d1a8f1a225fd.gif)
 
 ### Hi there 👋 I'm Dariel
-- :mortar_board: I graduated from 4Geeks Academy
+- :mortar_board: I graduated from 4Geeks Academy (Coding Bootcamp)
 - 🌱 I’m currently learning more about Phyton 
 - :busts_in_silhouette: I am ready to meet new co-workers and work as a team
 - :office: I’m looking for a job as a software developer
